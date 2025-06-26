@@ -416,3 +416,10 @@ proxies:
     port: 6969
     username: '@bdiix_bypass'
     password: '@bdiix_bypass'
+    
+  - name: "FTPBD-SAMFTP-DISCOVERY-Server-63"
+    type: socks5
+    server: 103.150.255.120
+    port: 7878
+    username: h2
+    password: h2
