@@ -76,7 +76,7 @@ proxies:
     username: exrex
     password: exrex
 
-  - name: "Server-12"
+  - name: "LIVE1-Server-12"
     type: socks5
     server: 103.49.200.177
     port: 19201
@@ -209,12 +209,12 @@ proxies:
     username: exrex
     password: exrex
 
-  - name: "CIRCLE-DISCOVERY-TIMEPASSBD-Server-31"
+  - name: "LIVE1-CIRCLE-DISCOVERY-TIMEPASSBD-Server-31"
     type: http
     server: 45.115.112.138
     port: 7675
 
-  - name: "CIRCLE-DISCOVERY-TIMEPASSBD-Server-32"
+  - name: "LIVE1-CIRCLE-DISCOVERY-TIMEPASSBD-Server-32"
     type: http
     server: 121.200.61.221
     port: 6565
@@ -264,7 +264,7 @@ proxies:
     server: 45.115.114.146
     port: 7653
 
-  - name: "DISCOVERY-TIMEPASSBD-Server-40"
+  - name: "LIVE1-DISCOVERY-TIMEPASSBD-Server-40"
     type: http
     server: 121.200.63.205
     port: 8742
